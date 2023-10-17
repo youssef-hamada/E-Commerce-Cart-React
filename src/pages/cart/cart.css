@@ -1,0 +1,13 @@
+.cartItems{
+    /* background-color: aquamarine; */
+    /* width: 100vw; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cart_item {
+    width: 25vw;
+    margin: 0rem 1.4rem;
+    background-color: rgb(194, 194, 194);
+}

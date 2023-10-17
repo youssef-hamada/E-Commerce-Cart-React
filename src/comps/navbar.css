@@ -1,0 +1,32 @@
+*{
+
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.navbar{
+    background-color: black;
+    padding: 0.4rem;
+    color: white;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.links{
+    /* display: inline-block; */
+
+}
+
+a{
+    color: white;
+    margin: 1rem;
+    /* display: inline-block; */
+    text-decoration: none;
+}
+
+[href='/cart'] {
+    vertical-align: middle;
+}
